@@ -1,0 +1,21 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+}
+
+body{
+    background-image: url(./imgs/snow.jpg);
+    background-size: cover;
+}
+
+#demo{
+    align-items: center;
+    position: relative;
+    text-align: center;
+    margin-top: 300px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    
+}
